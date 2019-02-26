@@ -1,4 +1,40 @@
 # Modul5-PHP
+Jawab Soal
+1. Fungsi adalah sekumpulan intruksi dalam sebuah block dengan disendirikan seperti dibungkus serta dengan 
+   berbagai macam intruksi, fungsi juga membantu untuk merapikan codingan agar jika dicari intruksinya akan
+   cepat dan mudah ditemukan
+   
+2. -Fungsi dengan Parameter  
+    Parameter digunakan sebagai input untuk fungsi yang selanjutnya diolah oleh fungsi 
+    tersebut. Jumlah parameter dari fungsi boleh lebih dari satu. Untuk memisahkan antar 
+    parameter digunakan tanda koma (,), dan Parameter itu adalah sebuah variabel dengan 
+    isi yang kosong, cara untuk mengisinya yaitu saat ingin memanggilnya harus menambahkan
+    isi pada dalam kurung pemanggil(argument);
+    
+   -Fungsi dengan Return Value  
+    Sebuah fungsi juga dapat mengembalikan suatu nilai. Dalam sebuah fungsi hanya boleh terdapat 
+    satu return value. Nilai yang dikembalikan dapat berupa suatu bilangan real dan string.
+    jadi hasil dari fungsi itu jika dipanggil akan menampilkan return (nilai kembali) dari fungsi
+    tersebut.
+    
+   -Fungsi Tanpa Parameter dan Return Value  
+    Sebuah fungsi yang tidak memiliki parameter dan return value biasanya digunakan untuk menampilkan 
+    suatu mekanisme atau tampilan, di mana mekanisme tersebut tidak memerlukan inputan dan 
+    nilai kembalian / return value. Jadi return itu didapatkan dari isi variabel yang ditambahkan dalam
+    fungsi tersebut atau langsung melakukan intruksi dengan menambahkan angka dalam fungsi tersebut.
+   
+  -Fungsi dengan parameter default 
+   Nilai default dapat diberikan di parameter. Nilai default berfungsi untuk mengisi nilai sebuah parameter, 
+   kalau parameter tersebut tidak diisi dengan inputan nilainya. jadi saat memanggil fungsi ini kita bisa memanggil
+   dengan inputan satu angka atau bahkan tanpa inputan.
+   
+3.
+
+
+
+
+
+
 Latihan 1
 
 ![alt text](https://github.com/GhufronAndriansyah/Modul5-PHP/blob/master/Latihan1.png)
