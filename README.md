@@ -21,14 +21,23 @@ Jawab Soal
     Sebuah fungsi yang tidak memiliki parameter dan return value biasanya digunakan untuk menampilkan 
     suatu mekanisme atau tampilan, di mana mekanisme tersebut tidak memerlukan inputan dan 
     nilai kembalian / return value. Jadi return itu didapatkan dari isi variabel yang ditambahkan dalam
-    fungsi tersebut atau langsung melakukan intruksi dengan menambahkan angka dalam fungsi tersebut.
+    fungsi tersebut atau langsung melakukan intruksi dengan menambahkan angka dalam fungsi tersebut. 
+    
+   -Fungsi dengan parameter default 
+    Nilai default dapat diberikan di parameter. Nilai default berfungsi untuk mengisi nilai sebuah parameter, 
+    kalau parameter tersebut tidak diisi dengan inputan nilainya. jadi saat memanggil fungsi ini kita bisa memanggil
+    dengan inputan satu angka atau bahkan tanpa inputan.
    
-  -Fungsi dengan parameter default 
-   Nilai default dapat diberikan di parameter. Nilai default berfungsi untuk mengisi nilai sebuah parameter, 
-   kalau parameter tersebut tidak diisi dengan inputan nilainya. jadi saat memanggil fungsi ini kita bisa memanggil
-   dengan inputan satu angka atau bahkan tanpa inputan.
-   
-3.
+3.  Sudah Benar karena jika ada kesalahan pada kode atau script lalu ditampikan atau dijalankan maka kesalahan tersebut
+    akan ditampilkan pada layar dan akan memberitahu pada baris keberapa kesalahan itu terjadi agar kesalahan itu dapat
+    diperbaiki.
+    Fungsi yang saya gunakan pada program :
+    
+    1.Fungsi dengan return
+    function Massa($massa,$volume){
+	      return $massa/$volume;
+	}
+   Parameter : $massa,$volume
 
 
 
