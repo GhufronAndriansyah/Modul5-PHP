@@ -35,9 +35,9 @@ Jawab Soal
     Fungsi yang saya gunakan pada program :
     
     1.Fungsi dengan return
-    function Massa($massa,$volume)
+    function Massa($massa,$volume){
     	return $massa/$volume;
-	
+	}
 	Parameter : $massa,$volume
 
 
