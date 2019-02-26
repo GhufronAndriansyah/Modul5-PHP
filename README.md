@@ -1,8 +1,9 @@
 # Modul5-PHP
 Jawab Soal
-1. Fungsi adalah sekumpulan intruksi dalam sebuah block dengan disendirikan seperti dibungkus serta dengan 
-   berbagai macam intruksi, fungsi juga membantu untuk merapikan codingan agar jika dicari intruksinya akan
-   cepat dan mudah ditemukan
+1. Fungsi adalah Sebuah wadah yang memiliki sekumpulan intruksi yang berfungsi untuk 
+   mengeksekusi atau menjalankan kode yang berada didalam wadah tersebut dengan cara 
+   memanggil wadah tersebut, fungsi juga membantu untuk merapikan codingan agar jika 
+   dicari intruksinya akan cepat dan mudah ditemukan
    
 2. -Fungsi dengan Parameter  
     Parameter digunakan sebagai input untuk fungsi yang selanjutnya diolah oleh fungsi 
@@ -34,10 +35,10 @@ Jawab Soal
     Fungsi yang saya gunakan pada program :
     
     1.Fungsi dengan return
-    function Massa($massa,$volume){
-	      return $massa/$volume;
-	}
-   Parameter : $massa,$volume
+    function Massa($massa,$volume)
+    	return $massa/$volume;
+	
+	Parameter : $massa,$volume
 
 
 
